@@ -1,1 +1,0 @@
-# stoci-script
